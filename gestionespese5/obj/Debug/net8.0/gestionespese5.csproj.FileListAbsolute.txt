@@ -1,0 +1,14 @@
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\bin\Debug\net8.0\gestionespese5.exe
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\bin\Debug\net8.0\gestionespese5.deps.json
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\bin\Debug\net8.0\gestionespese5.runtimeconfig.json
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\bin\Debug\net8.0\gestionespese5.dll
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\bin\Debug\net8.0\gestionespese5.pdb
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.AssemblyInfoInputs.cache
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.AssemblyInfo.cs
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.csproj.CoreCompileInputs.cache
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.dll
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\refint\gestionespese5.dll
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.pdb
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\gestionespese5.genruntimeconfig.cache
+C:\Users\bolognini.22037\source\repos\gestionespese5\gestionespese5\obj\Debug\net8.0\ref\gestionespese5.dll
